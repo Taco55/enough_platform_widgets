@@ -3,5 +3,6 @@
         "autocorrect",
         "autofocus",
         "Cupertino"
-    ]
+    ],
+    "dart.flutterSdkPath": "~/fvm/versions/3.29.2"
 }
